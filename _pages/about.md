@@ -11,7 +11,7 @@ I am a Ph.D. candidate in the [Department of Math and Statistics](https://mathst
 
 My joint background leads to my wide range of research interests, including <b>Missing value inputation, Change-point detection, Anomaly detection, Time-series analysis, Statistical modeling and Machine Learning </b>. I'm also interested in other topics, like predictive modeling, network analysis and probabilistic graph models.
 
-You can find my CV here:[CV](tongCV.pdf)
+You can find my CV here:[CV](Tongsi98.github.io/files/tongCV.pdf)
  
 I love both cats and dogs, and my cat exhibits such a dog-like personality that I've named him Doggie!
 
