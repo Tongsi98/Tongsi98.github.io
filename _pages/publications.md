@@ -23,8 +23,8 @@ permalink: /publications/
    *Proceedings of the 2025 15th International Conference on Information Science and Technology (ICIST)*, 256–259 (2025).
 
 5. Lingling Zhang, **Tong Si**, Lucas Koch, Haijun Gong.  
-   [*Gene Regulatory Network Inference from Pseudotime-Ordered scRNA-seq Data via Time-Lagged Divergence Measures.*](https://dl.acm.org/)  
-   *Proceedings of the 12th International Conference on Bioinformatics Research and Applications (ICBRA)* (in press, 2025).
+   [*Gene Regulatory Network Inference from Pseudotime-Ordered scRNA-seq Data via Time-Lagged Divergence Measures.*](https://doi.org/10.1145/3774976.3774995)  
+   *Proceedings of the 12th International Conference on Bioinformatics Research and Applications (ICBRA)*, 111–115 (2025).
    
 6. Graham Bishop, **Tong Si**, Isabelle Luebbert, Noor Al-Hammadi, and Haijun Gong.  
    [*tBN-CSDI: A time-varying blue noise-based diffusion model for time series imputation.*](https://doi.org/10.1093/bioadv/vbaf225)  
